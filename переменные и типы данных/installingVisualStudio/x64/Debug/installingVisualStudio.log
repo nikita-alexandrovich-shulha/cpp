@@ -1,0 +1,3 @@
+﻿  index.cpp
+D:\education\installingVisualStudio\installingVisualStudio\index.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  installingVisualStudio.vcxproj -> D:\education\installingVisualStudio\x64\Debug\installingVisualStudio.exe

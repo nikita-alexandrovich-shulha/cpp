@@ -1,5 +1,6 @@
 #include <iostream>
 
 void main() {
-    std::cout << "Hello World!";
+    setlocale(LC_ALL, "RU");
+    std::cout << "Hello World by Никита!";
 }
